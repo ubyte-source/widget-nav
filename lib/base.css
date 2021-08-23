@@ -1,0 +1,17 @@
+div#nav div.ellipsis { white-space: nowrap !important; overflow: hidden !important; text-overflow: ellipsis; }
+div#nav { padding: 9px 0; height: 44px; width: 100%; border-bottom: 1px solid #dbdbdb; z-index: 128; }
+div#nav a.back { display: inline-block; margin: 10px 16px; text-align: center; border-radius: 50%; cursor: pointer; }
+div#nav a.back:hover { background-color: #f1f1f1; color:#333; }
+
+div#nav div.container div.content { text-align: center; }
+div#nav div.container div.content label.title { margin: 12px; text-align: left; font-size: 18px; line-height: 18px; font-weight: 400; letter-spacing: normal; }
+
+div#nav button { text-align: center; width: 100%; }
+
+@media only screen and (max-width: 1280px) {
+    div#nav button span { display: none; }
+    div#nav button { padding: 0; }
+
+}
+
+div#nav button.side-panel { float: right; }

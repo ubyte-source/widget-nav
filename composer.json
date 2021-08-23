@@ -1,0 +1,26 @@
+{
+  "name": "widget/nav",
+  "type": "library",
+  "description": "Javascript widget nav",
+  "keywords": [
+    "ubyte",
+    "client-side",
+    "widget",
+    "nav"
+  ],
+  "homepage": "https://github.com/energia-source/widget-nav",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Paolo Fabris",
+      "email": "support@ubyte.it",
+      "homepage": "https://www.ubyte.it/",
+      "role": "Developer"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Nav\\": "lib/"
+    }
+  }
+}
