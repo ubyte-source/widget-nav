@@ -29,8 +29,8 @@ To add an element to the column the porcess is the following:
 ## Structure
 
 library:
-    - [window.Nav](https://github.com/energia-source/widget-nav#class-windownav-usable-methods)
-    - [window.Nav.Column](https://github.com/energia-source/widget-nav#class-windownavcolumn-usable-methods)
+- [window.Nav](https://github.com/energia-source/widget-nav#class-windownav-usable-methods)
+- [window.Nav.Column](https://github.com/energia-source/widget-nav#class-windownavcolumn-usable-methods)
 
 <br>
 
